@@ -1,2 +1,9 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. *//* Your CSS Code here. */
+button{
+    width:2rem;
+}
+
+#ans{
+    padding: 2px;
+}
